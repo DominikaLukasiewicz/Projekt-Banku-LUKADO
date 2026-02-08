@@ -1,4 +1,4 @@
-# Projekt-Banku-LUKADO
+# Projekt-Banku-LUKADO -- test
 Projekt przedstawia placówki Banku LUKADO w regionie nr 220 Zachód 
 # Analiza sprzedaży kredytów gotówkowych – projekt SQL
 
