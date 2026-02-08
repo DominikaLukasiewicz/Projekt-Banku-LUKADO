@@ -18,7 +18,6 @@ Analiza obejmuje pięć placówek banku zlokalizowanych w:
 Dane dotyczą m.in.:
 - sprzedaży kredytów gotówkowych,
 - lokalizacji oddziałów,
-- liczby mieszkańców,
 - odległości placówki od centrum miasta.
 
 ---
@@ -38,7 +37,7 @@ Dane dotyczą m.in.:
 ---
 
 ## Kontekst praktyczny
-Projekt został wzbogacony o doświadczenie zawodowe autorki, zdobyte podczas pracy w dwóch placówkach banku we Wrocławiu – zarówno w ścisłym centrum miasta, jak i na jego obrzeżach. Pozwoliło to na połączenie analizy danych z obserwacjami praktycznymi.
+Projekt stanowi również odzwierciedlenie moich doświadczeń zawodowych – miałam możliwość pracy w dwóch placówkach banku we Wrocławiu, zarówno w ścisłym centrum miasta, jak i na jego obrzeżach, co pozwoliło mi spojrzeć na analizowane zagadnienie z perspektywy praktycznej.
 
 ---
 
