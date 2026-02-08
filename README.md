@@ -5,6 +5,9 @@ Projekt przedstawia analizę sprzedaży kredytów gotówkowych w wybranych plac�
 
 Kredyty gotówkowe zostały wybrane jako przedmiot analizy, ponieważ są jednym z najbardziej opłacalnych produktów bankowych – generują wysokie przychody dzięki oprocentowaniu, prowizjom oraz dodatkowym opłatom.
 
+
+Dane wykorzystane w projekcie są danymi syntetycznymi i nie odzwierciedlają rzeczywistych danych operacyjnych. Projekt dotyczy fikcyjnej placówki bankowej stworzonej na potrzeby ćwiczenia.
+
 ---
 
 ## Zakres analizy
